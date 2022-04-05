@@ -10,7 +10,7 @@ Meshes for the Franka Panda robot have been obtained from Franka Emika Panda Sim
 
 ## Use
 You can either:
-1. copy all files into Assests directory of new fresh Unity project or 
+1. copy all files and folders into Assests directory of new fresh Unity project or 
 2. copy just Unity package file and import it.
 
 In both cases you will get folders:
