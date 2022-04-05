@@ -14,7 +14,7 @@ You can either:
 2. copy just Unity package file and import it.
 
 In both cases you will get folders:
-- `meshes`: contains meshes for Frankla Panda robot copied from https://github.com/FirefoxMetzger/panda_gazebo_sim.
+- `meshes`: contains meshes for Franka Panda robot copied from https://github.com/FirefoxMetzger/panda_gazebo_sim.
 - `Plugins`: Contains DLL of IK code. DLL contains two versions of IK function, one with float data types and other with double data types for joint variables and end-effector transformation matrix. 
 - `Scenes`: Samples scene.
 - `Scripts`: Contains two C# scripts, one for double data type and one for float data type versions of IK function. C# script is added to *Panda_Base* gameobject, which is the root object of the Franka Panda model.  
